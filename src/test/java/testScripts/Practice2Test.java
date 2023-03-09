@@ -8,6 +8,7 @@ public class Practice2Test {
 	public void practice2Test()
 	{
 		System.out.println("This is Practice 2");
+		System.out.println("This is Practice 2-Poll SCM");
 	}
 
 }
