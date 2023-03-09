@@ -12,6 +12,7 @@ public class ReadDataFromParametersTest {
 		System.out.println(Browser);
 		System.out.println(Username);
 		System.out.println(Password);
+		System.out.println("Hiii");
 	}
 	
 
